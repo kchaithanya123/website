@@ -11,8 +11,8 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 Download the ZIP from this location, or run the following git command to clone the files to your machine:
 
-git clone https://github.com/craigshoemaker/html-css-javascript-getting-started
-Once the files are on your machine, open the html-css-javascript-getting-started folder in Visual Studio Code.
+git clone https://github.com/kchaithanya123/website
+Once the files are on your machine, open the https://github.com/kchaithanya123/website folder in Visual Studio Code.
 
 With the files open in Visual Studio Code, press the Go Live button at the bottom of the window to launch the files with Live Server.
 
